@@ -1,2 +1,2 @@
-# SpringFoodProject
-The project has created with Spring MVC, Spring Security, Hibernate and Restful API.
+# SpringFoodProj
+This project containes Spring MVC, Spring Security and Hibernate using.
