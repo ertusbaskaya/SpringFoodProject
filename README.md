@@ -1,2 +1,2 @@
-# SpringFoodProj
+# SpringFoodProject
 This project containes Spring MVC, Spring Security and Hibernate using.
