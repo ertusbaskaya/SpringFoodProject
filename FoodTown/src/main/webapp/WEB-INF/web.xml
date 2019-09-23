@@ -22,7 +22,7 @@
   </servlet-mapping>
   <filter>
     <filter-name>CharacterEncodingFilter</filter-name>
-    <filter-class>util.CharacterEncodingFilter</filter-class>
+    <filter-class>com.works.utils.CharacterEncodingFilter</filter-class>
     <init-param>
       <param-name>requestEncoding</param-name>
       <param-value>UTF-8</param-value>
